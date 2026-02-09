@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@plugin "tailwindcss-animate";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --color-shark-blue: #1b3c68;
+  --color-shark-blue-dark: #152a45;
+  --color-shark-yellow: #ffd54f;
+  --color-shark-yellow-bright: #f5c842;
+  --color-shark-yellow-pale: #f6e2b1;
+  --color-shark-blue-light: #b7d9ee;
+  --color-shark-gray: #6a7f90;
+  --color-purple: #6d3fc0;
+  --color-purple-hover: #5b34a8;
+}
